@@ -1,0 +1,43 @@
+_repo: Brave-and-TrueShort-stories-for-children-by-G.-M.-Fenn-and-Others_21292
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fenn, George Manville
+    aliases:
+    - Fenn, G. M. (George Manville)
+    - Fenn, G. Manville (George Manville)
+    birthdate: 1831
+    deathdate: 1909
+    gutenberg_agent_id: '3840'
+    url: http://www.gutenberg.org/2009/agents/3840
+    wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
+description: ''
+gutenberg_issued: '2007-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21292'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcsh 'Short stories'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+tableOfContents: Brave and True, by E Dawson -- Two Rough Stones, by George Manville
+  Fenn -- A Grateful Indian, by Helen Marion Burnside -- In the Country, by F Gray
+  Severne -- My Encounter with a Grizzly, by Arthur J Daniels -- Up the Mountain,
+  by Frances E Crompton -- A New Set -- Grandfather's Hero -- Bernard's Experiment
+  -- Toby the Clown -- A Christmas Party, by John Strange Winter -- Haggart's Lie,
+  by Geraldine Glasgow.
+title: 'Brave and True
+
+  Short stories for children by G. M. Fenn and Others'
+url: http://www.gutenberg.org/ebooks/21292
